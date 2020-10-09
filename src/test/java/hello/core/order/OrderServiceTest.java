@@ -1,4 +1,4 @@
-package hello.core.member.order;
+package hello.core.order;
 
 import hello.core.AppConfig;
 import hello.core.member.MemberService;
